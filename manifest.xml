@@ -1,0 +1,11 @@
+<manifest>
+    <remote  name="koderover"
+            fetch="https://github.com/koderover/"/>
+
+    <default revision="main"
+            remote="koderover"
+            sync-j="4" />
+
+    <project path="zadig" name="zadig" />
+    <project path="zadig-portal" name="zadig-portal" />
+</manifest>
