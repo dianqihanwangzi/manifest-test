@@ -4,7 +4,7 @@
             review="https://gitlab.com"/>
 
     <default revision="main"
-            remote="koderover"
+            remote="gitlab-test"
             sync-j="4" />
 
     <project path="go-example" name="go-example" />
