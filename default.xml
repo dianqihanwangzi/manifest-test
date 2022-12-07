@@ -1,7 +1,8 @@
 <manifest>
     <remote  name="gitlab-test"
             fetch="git@gitlab.com:dianqihanwangzi1/"
-            review="https://gitlab.com"/>
+            review="https://gitlab.com"
+            type="gitlab"/>
 
     <default revision="main"
             remote="gitlab-test"
