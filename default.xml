@@ -1,6 +1,7 @@
 <manifest>
     <remote  name="koderover"
-            fetch="https://github.com/koderover/"/>
+            fetch="https://github.com/koderover/"
+            review="https://github.com"/>
 
     <default revision="main"
             remote="koderover"
