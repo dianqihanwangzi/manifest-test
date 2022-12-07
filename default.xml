@@ -1,12 +1,12 @@
 <manifest>
-    <remote  name="koderover"
-            fetch="https://github.com/koderover/"
-            review="https://github.com"/>
+    <remote  name="gitlab-test"
+            fetch="git@gitlab.com:dianqihanwangzi1/"
+            review="https://gitlab.com"/>
 
     <default revision="main"
             remote="koderover"
             sync-j="4" />
 
-    <project path="zadig" name="zadig" />
-    <project path="zadig-portal" name="zadig-portal" />
+    <project path="go-example" name="go-example" />
+    <project path="git-repo-test" name="git-repo-test" />
 </manifest>
