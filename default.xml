@@ -10,4 +10,6 @@
 
     <project path="go-example" name="go-example" />
     <project path="git-repo-test" name="git-repo-test" />
+    
+    <workflow path="workflow.yaml" />
 </manifest>
