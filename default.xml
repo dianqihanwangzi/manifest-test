@@ -1,4 +1,4 @@
-<manifest>
+<manifest record-branch="record">
     <remote  name="gitlab-test"
             fetch="git@gitlab.com:dianqihanwangzi1/"
             review="https://gitlab.com"
@@ -10,6 +10,4 @@
 
     <project path="go-example" name="go-example" />
     <project path="git-repo-test" name="git-repo-test" />
-    
-    <record-branch>"record"</record-branch>
 </manifest>
