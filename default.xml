@@ -1,4 +1,4 @@
-<manifest record-branch="record">
+<manifest>
     <record-branch>record</record-branch>
     <remote  name="gitlab-test"
             fetch="git@gitlab.com:dianqihanwangzi1/"
