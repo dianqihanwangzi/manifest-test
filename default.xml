@@ -1,5 +1,6 @@
 <manifest>
     <record-branch>record</record-branch>
+    <manifest-url>https://gitlab.com/dianqihanwangzi1/git-repo-test/</manifest-url>
     <remote  name="gitlab-test"
             fetch="git@gitlab.com:dianqihanwangzi1/"
             review="https://gitlab.com"
